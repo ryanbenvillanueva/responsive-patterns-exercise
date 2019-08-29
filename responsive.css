@@ -1,0 +1,8 @@
+@media screen and (min-width: 320px) and (max-width: 425px) {
+    .header__title {
+        font-weight: 400;
+        font-size: 2em;
+        margin-left: .5em;
+        padding-top:1.5em
+    }
+}
